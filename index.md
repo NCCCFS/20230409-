@@ -2,6 +2,7 @@
 # 题目：耶稣复活岂不应当
 # 经文：路加福音24章
 # 讲员：赵牧师
+<audio controls src="./耶稣复活岂不应当.mp3"></audio>
 ![image](https://user-images.githubusercontent.com/91267933/230797833-ddf3fa2a-2312-4cd2-a945-a7f963703171.png)
 ![image](https://user-images.githubusercontent.com/91267933/230797840-9fa0fce9-d07b-40db-80ad-a7051d679656.png)
 ![image](https://user-images.githubusercontent.com/91267933/230797844-5fd1b134-521b-4672-99d5-486d5eb3d6b3.png)
